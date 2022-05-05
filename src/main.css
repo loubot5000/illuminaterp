@@ -1,15 +1,22 @@
-notices {
+.notices {
     color: red;
     font-family: verdana;
     font-size: 18px;
   }
-  roles {
+  .roles {
     color: rgb(48, 86, 157);
     font-family: verdana;
     font-size: 18px;
   }
-  maintext {
+  .maintext {
     color: rgb(0, 0, 0);
     font-family: verdana;
     font-size: 18px;
+  }
+  .rcorners {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px
   }
